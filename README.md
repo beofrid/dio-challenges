@@ -1,4 +1,4 @@
-# First-repository
+# Typescript challenge
 Getting started on GitHub by DIO's Git/GitHub challenge 
 
 Typescript challenges 1 - 3;
